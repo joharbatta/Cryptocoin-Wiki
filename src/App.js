@@ -28,7 +28,7 @@ class App extends Component {
       );
 
     return (
-      <div>
+      <div basename="/Cryptocoin-Wiki">
         <Header />
         {coinsList}
       </div>
