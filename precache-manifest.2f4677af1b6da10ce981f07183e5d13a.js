@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ff749fd5e8e18dc07f4f2db8f65b91dc",
+    "revision": "681ead640bec255bc4f06e26635985f3",
     "url": "/joharbatta/Cryptocoin-Wiki/index.html"
   },
   {
-    "revision": "cc691714d7a6a3455554",
+    "revision": "ff00d1809de56f7f459d",
     "url": "/joharbatta/Cryptocoin-Wiki/static/css/main.f94cadac.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/joharbatta/Cryptocoin-Wiki/static/js/2.0044e58d.chunk.js.LICENSE"
   },
   {
-    "revision": "cc691714d7a6a3455554",
-    "url": "/joharbatta/Cryptocoin-Wiki/static/js/main.1255c4f1.chunk.js"
+    "revision": "ff00d1809de56f7f459d",
+    "url": "/joharbatta/Cryptocoin-Wiki/static/js/main.4d5bd768.chunk.js"
   },
   {
     "revision": "ef397287aa398c97a3b4",

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/joharbatta/Cryptocoin-Wiki/static/css/main.f94cadac.chunk.css",
-    "main.js": "/joharbatta/Cryptocoin-Wiki/static/js/main.1255c4f1.chunk.js",
-    "main.js.map": "/joharbatta/Cryptocoin-Wiki/static/js/main.1255c4f1.chunk.js.map",
+    "main.js": "/joharbatta/Cryptocoin-Wiki/static/js/main.4d5bd768.chunk.js",
+    "main.js.map": "/joharbatta/Cryptocoin-Wiki/static/js/main.4d5bd768.chunk.js.map",
     "runtime-main.js": "/joharbatta/Cryptocoin-Wiki/static/js/runtime-main.85d75a9e.js",
     "runtime-main.js.map": "/joharbatta/Cryptocoin-Wiki/static/js/runtime-main.85d75a9e.js.map",
     "static/js/2.0044e58d.chunk.js": "/joharbatta/Cryptocoin-Wiki/static/js/2.0044e58d.chunk.js",
     "static/js/2.0044e58d.chunk.js.map": "/joharbatta/Cryptocoin-Wiki/static/js/2.0044e58d.chunk.js.map",
     "index.html": "/joharbatta/Cryptocoin-Wiki/index.html",
-    "precache-manifest.c9305c284a775bdd5f771e168fdc7ee3.js": "/joharbatta/Cryptocoin-Wiki/precache-manifest.c9305c284a775bdd5f771e168fdc7ee3.js",
+    "precache-manifest.2f4677af1b6da10ce981f07183e5d13a.js": "/joharbatta/Cryptocoin-Wiki/precache-manifest.2f4677af1b6da10ce981f07183e5d13a.js",
     "service-worker.js": "/joharbatta/Cryptocoin-Wiki/service-worker.js",
     "static/css/main.f94cadac.chunk.css.map": "/joharbatta/Cryptocoin-Wiki/static/css/main.f94cadac.chunk.css.map",
     "static/js/2.0044e58d.chunk.js.LICENSE": "/joharbatta/Cryptocoin-Wiki/static/js/2.0044e58d.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.85d75a9e.js",
     "static/js/2.0044e58d.chunk.js",
     "static/css/main.f94cadac.chunk.css",
-    "static/js/main.1255c4f1.chunk.js"
+    "static/js/main.4d5bd768.chunk.js"
   ]
 }

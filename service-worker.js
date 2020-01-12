@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/joharbatta/Cryptocoin-Wiki/precache-manifest.c9305c284a775bdd5f771e168fdc7ee3.js"
+  "/joharbatta/Cryptocoin-Wiki/precache-manifest.2f4677af1b6da10ce981f07183e5d13a.js"
 );
 
 self.addEventListener('message', (event) => {
