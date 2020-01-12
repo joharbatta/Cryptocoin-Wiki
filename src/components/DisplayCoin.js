@@ -79,3 +79,4 @@ class DisplayCoin extends Component {
     }
 }
 export default DisplayCoin;
+//joharbatta
